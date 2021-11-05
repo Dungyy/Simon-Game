@@ -8,10 +8,10 @@ Re-Created the Simon Game as a project
 
 
 I used:
-HTML
-CSS
-JavaScript
-jQuery
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 The Game is played using the DOM
 - Step 1; Click any key on the keyboard to begin
